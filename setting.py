@@ -1,0 +1,91 @@
+CB_DATA = {
+    'P':'1022.7',
+    'T':'22.9',
+    'DeltaT':'0.2',
+    'Box':'3670'
+}
+
+EFG = {'mass':14.85}
+
+O1_III_R = {
+    'data':[        
+            {
+                "class":'III类',
+                'mass_r':'8.99',
+                'mass_c':'21.04',
+                'result':'107',
+                'count':'1'
+             },
+            {
+                "class":'III类',
+                'mass_r':'9.02',
+                'mass_c':'21.00',
+                'result':'108',
+                'count':'2'
+             },
+            {
+                "class":'III类',
+                'mass_r':'9.00',
+                'mass_c':'21.05',
+                'result':'108',
+                'count':'3'
+             },
+            {
+                "class":'III类',
+                'mass_r':'9.05',
+                'mass_c':'21.03',
+                'result':'112',
+                'count':'4'
+             },
+             {
+                "class":'III类',
+                'mass_r':'9.02',
+                'mass_c':'20.98',
+                'result':'110',
+                'count':'5',
+             },
+             ],
+    'average':'109'
+}
+
+O1_II_R = {
+    'data':[        
+            {
+                "class":'II类',
+                'mass_r':'12.00',
+                'mass_c':'18.01',
+                'result':'55',
+                'count':'1'
+             },
+            {
+                "class":'II类',
+                'mass_r':'11.99',
+                'mass_c':'18.03',
+                'result':'55',
+                'count':'2'
+             },
+            {
+                "class":'II类',
+                'mass_r':'12.04',
+                'mass_c':'18.00',
+                'result':'58',
+                'count':'3'
+             },
+            {
+                "class":'II类',
+                'mass_r':'12.01',
+                'mass_c':'18.00',
+                'result':'56',
+                'count':'4'
+             },
+             {
+                "class":'II类',
+                'mass_r':'12.03',
+                'mass_c':'17.99',
+                'result':'56',
+                'count':'5',
+             },
+             ],
+    'average':'56'
+}
+
