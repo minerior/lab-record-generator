@@ -17,3 +17,6 @@ This tool showcases the power of Selenium in cutting down repetitive work within
 
 https://github.com/user-attachments/assets/4b7a56f7-685d-445b-97b8-745ba9f270f6
 
+
+
+![msedge_o835KbIako](https://github.com/user-attachments/assets/7aaa3280-64bb-4649-b844-d18e87b21e11)
